@@ -1,11 +1,87 @@
-﻿.body{
-    background-color:blue
-}
-p{
-    margin:auto;
-    color:#ff0000;
+﻿body {
+    background-color: #d4d3d3;
 }
 
-iframe{
-    width:1000px;
+#maindiv {
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+header {
+    color: #ffffff;
+    background-color: #000000;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 15px 15px 15px 15px;
+    font-size: 16pt;
+    font-family: "Times New Roman", times;
+    word-spacing: 2px;
+}
+
+#Article {
+    background-color: #ffffff;
+    line-height: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 15px 15px 15px 15px;
+    font-size: 13pt;
+    font-family: "Times New Roman", times;
+}
+
+.buy {
+    background-color: #ffffff;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 15px 15px 15px 15px;
+    font-size: 16pt;
+    font-style: italic;
+    font-family: "Times New Roman", times;
+}
+
+    .buy:hover {
+        background-color: red;
+    }
+
+    .buy:active {
+        background-color: yellow;
+    }
+
+#video {
+    background-color: #ffffff;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 15px 15px 15px 15px;
+    font-size: 16pt;
+    font-style: italic;
+    font-family: "Times New Roman", times;
+}
+
+#links {
+    background-color: #ffffff;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 15px 15px 15px 15px;
+    font-size: 16pt;
+}
+
+
+Footer {
+    color: #ffffff;
+    background-color: #000000;
+    border-top-style: solid;
+    border-width: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 50px 50px 50px 50px;
+    font-size: 13pt;
+    font-family: arial;
+}
+
+img {
+    background-color: #ffffff;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 0;
+  
 }
